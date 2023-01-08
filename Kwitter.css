@@ -1,0 +1,38 @@
+.body_backgorund {
+    background: linear-gradient(#c5851a 0%,#0c848c 100% );
+    background-image: url(background.png);
+    
+    padding-top: 0%;
+    padding-left: 0%;
+}
+Body {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color: cyan
+  }  
+  button {   
+         background-color: #4CAF50;  
+          
+         width: 100%;  
+          color: purple;   
+          padding: 15px;   
+          margin: 10px 0px;   
+          border: none;   
+          cursor: pointer;   
+           }   
+   form {   
+          border: 3px solid #f1f1f1;   
+      }   
+      input[type=text], input[type=password] {   
+          width: 100%;   
+          margin: 8px 0;  
+          padding: 12px 20px;   
+          display: inline-block;   
+          border: 2px solid greenyellow;   
+           
+      }  
+   
+       
+   .container {   
+          padding: 25px;   
+          background-color: lightblue;  
+      }  
